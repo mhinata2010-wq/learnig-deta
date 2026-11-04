@@ -1,0 +1,76 @@
+{
+  "review_source_count": 11,
+  "survey_source_count": 3,
+  "sources": {
+    "and_app": {
+      "platform": "App Store",
+      "url": "https://apps.apple.com/jp/app/andpad-%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E6%96%BD%E5%B7%A5%E7%AE%A1%E7%90%86%E3%82%A2%E3%83%97%E3%83%AA/id1067643333",
+      "type": "review_listing"
+    },
+    "and_it": {
+      "platform": "ITreview",
+      "url": "https://www.itreview.jp/products/andpad/reviews",
+      "type": "review_listing"
+    },
+    "and_trend": {
+      "platform": "ITトレンド",
+      "url": "https://it-trend.jp/construction_management/9852/review?viewport=pc",
+      "type": "review_listing"
+    },
+    "genba": {
+      "platform": "ITreview",
+      "url": "https://www.itreview.jp/products/genbaplus/reviews",
+      "type": "review_listing"
+    },
+    "dandori": {
+      "platform": "App Store",
+      "url": "https://apps.apple.com/jp/app/%E3%83%80%E3%83%B3%E3%83%89%E3%83%AA%E3%83%AF%E3%83%BC%E3%82%AF-%E7%8F%BE%E5%A0%B4%E7%AE%A1%E7%90%86%E3%82%A2%E3%83%97%E3%83%AA/id1319741716?platform=watch",
+      "type": "review_listing"
+    },
+    "kanna": {
+      "platform": "ITreview",
+      "url": "https://www.itreview.jp/products/kanna/reviews",
+      "type": "review_listing"
+    },
+    "photoruction": {
+      "platform": "ITreview",
+      "url": "https://www.itreview.jp/products/photoruction/reviews",
+      "type": "review_listing"
+    },
+    "buildynote": {
+      "platform": "ITreview",
+      "url": "https://www.itreview.jp/products/buildynote-birudhino-to/reviews/237520",
+      "type": "review_listing"
+    },
+    "buildertrend": {
+      "platform": "Capterra",
+      "url": "https://www.capterra.com/p/70092/Buildertrend/reviews/",
+      "type": "review_listing"
+    },
+    "procore": {
+      "platform": "Capterra",
+      "url": "https://www.capterra.com/p/56250/Procore/reviews/",
+      "type": "review_listing"
+    },
+    "fieldwire": {
+      "platform": "Capterra",
+      "url": "https://www.capterra.com/p/142801/Fieldwire/reviews/",
+      "type": "review_listing"
+    },
+    "cybozu": {
+      "platform": "サイボウズ公式",
+      "url": "https://topics.cybozu.co.jp/news/2026/05/27-19438.html",
+      "type": "industry_survey"
+    },
+    "gemba_survey": {
+      "platform": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000129043.html",
+      "type": "industry_survey"
+    },
+    "m2ri": {
+      "platform": "MM総研",
+      "url": "https://www.m2ri.jp/release/detail.html?id=710",
+      "type": "industry_survey"
+    }
+  }
+}
